@@ -14,7 +14,7 @@ Este proyecto es una aplicación web desarrollada con Next.js 13, Strapi y Tailw
 3. Instala las dependencias de Next.js: `npm install`
 4. Configura la conexión a la base de datos y el CMS Strapi según las instrucciones proporcionadas en la documentación de Strapi.
 5. Ejecuta el proyecto Next.js: `npm run dev`
-6. Navega a `http://localhost:3000/blog` para acceder a la aplicación.
+6. Navega a `http://localhost:3000` para acceder a la aplicación.
 
 ## Estructura del Proyecto
 
