@@ -4,8 +4,6 @@ Este proyecto es una aplicación web desarrollada con Next.js 13, Strapi y Tailw
 
 ## Funcionalidades
 
-- Sistema de autenticación de usuarios para permitir la creación y edición de posts.
-- Creación de posts con campos como título, contenido, etiquetas y fecha de publicación.
 - Implementación de una funcionalidad de paginación para una navegación sencilla y eficiente en la lista de posts.
 - Uso de Strapi como CMS (Content Management System) para gestionar los posts y su contenido.
 - Utilización de Tailwind CSS para el diseño y la estilización de los componentes de la aplicación.
