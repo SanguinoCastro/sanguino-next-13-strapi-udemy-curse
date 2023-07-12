@@ -4,9 +4,6 @@ Este proyecto es una aplicación web desarrollada con Next.js 13, Strapi y Tailw
 
 ## Funcionalidades
 
-- Sistema de autenticación de usuarios para permitir la creación y edición de posts.
-- Creación de posts con campos como título, contenido, etiquetas y fecha de publicación.
-- Implementación de una funcionalidad de paginación para una navegación sencilla y eficiente en la lista de posts.
 - Uso de Strapi como CMS (Content Management System) para gestionar los posts y su contenido.
 - Utilización de Tailwind CSS para el diseño y la estilización de los componentes de la aplicación.
 
@@ -17,7 +14,7 @@ Este proyecto es una aplicación web desarrollada con Next.js 13, Strapi y Tailw
 3. Instala las dependencias de Next.js: `npm install`
 4. Configura la conexión a la base de datos y el CMS Strapi según las instrucciones proporcionadas en la documentación de Strapi.
 5. Ejecuta el proyecto Next.js: `npm run dev`
-6. Navega a `http://localhost:3000` para acceder a la aplicación.
+6. Navega a `http://localhost:3000/blog` para acceder a la aplicación.
 
 ## Estructura del Proyecto
 
